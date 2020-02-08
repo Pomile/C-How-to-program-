@@ -11,9 +11,10 @@ C# is one of the most popular programming languages and can be used for a variet
 
 #### Getting started
 
-Follow this link to quickly get started []
+Follow this link to quickly [get started](https://docs.microsoft.com/en-us/dotnet/core/tutorials/with-visual-studio-code)
+
 #### Tutorials
 1. Helloworld
 2. A simple Calculator(Mathematics operators +, -, , *, /, %)
 3. Fruit bags(if..else if..else, switch statement)
-4. Person(Equals and GetHascode)
+4. Person(Equals, GetHascode and IEqulityComparer)
