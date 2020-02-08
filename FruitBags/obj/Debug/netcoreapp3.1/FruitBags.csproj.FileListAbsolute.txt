@@ -1,0 +1,11 @@
+D:\c#\FruitBags\bin\Debug\netcoreapp3.1\FruitBags.exe
+D:\c#\FruitBags\bin\Debug\netcoreapp3.1\FruitBags.deps.json
+D:\c#\FruitBags\bin\Debug\netcoreapp3.1\FruitBags.runtimeconfig.json
+D:\c#\FruitBags\bin\Debug\netcoreapp3.1\FruitBags.runtimeconfig.dev.json
+D:\c#\FruitBags\bin\Debug\netcoreapp3.1\FruitBags.dll
+D:\c#\FruitBags\bin\Debug\netcoreapp3.1\FruitBags.pdb
+D:\c#\FruitBags\obj\Debug\netcoreapp3.1\FruitBags.csprojAssemblyReference.cache
+D:\c#\FruitBags\obj\Debug\netcoreapp3.1\FruitBags.AssemblyInfoInputs.cache
+D:\c#\FruitBags\obj\Debug\netcoreapp3.1\FruitBags.AssemblyInfo.cs
+D:\c#\FruitBags\obj\Debug\netcoreapp3.1\FruitBags.dll
+D:\c#\FruitBags\obj\Debug\netcoreapp3.1\FruitBags.pdb
