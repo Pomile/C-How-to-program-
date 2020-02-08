@@ -1,0 +1,11 @@
+D:\c#\Person\obj\Debug\netcoreapp3.1\Person.csprojAssemblyReference.cache
+D:\c#\Person\obj\Debug\netcoreapp3.1\Person.AssemblyInfoInputs.cache
+D:\c#\Person\obj\Debug\netcoreapp3.1\Person.AssemblyInfo.cs
+D:\c#\Person\bin\Debug\netcoreapp3.1\Person.exe
+D:\c#\Person\bin\Debug\netcoreapp3.1\Person.deps.json
+D:\c#\Person\bin\Debug\netcoreapp3.1\Person.runtimeconfig.json
+D:\c#\Person\bin\Debug\netcoreapp3.1\Person.runtimeconfig.dev.json
+D:\c#\Person\bin\Debug\netcoreapp3.1\Person.dll
+D:\c#\Person\bin\Debug\netcoreapp3.1\Person.pdb
+D:\c#\Person\obj\Debug\netcoreapp3.1\Person.dll
+D:\c#\Person\obj\Debug\netcoreapp3.1\Person.pdb
