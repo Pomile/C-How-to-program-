@@ -14,3 +14,6 @@ C# is one of the most popular programming languages and can be used for a variet
 Follow this link to quickly get started []
 #### Tutorials
 1. Helloworld
+2. A simple Calculator(Mathematics operators +, -, , *, /, %)
+3. Fruit bags(if..else if..else, switch statement)
+4. Person(Equals and GetHascode)
