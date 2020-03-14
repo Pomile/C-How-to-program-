@@ -1,0 +1,3 @@
+D:\c#\NumberToWords\obj\Debug\netcoreapp3.1\NumberToWords.csprojAssemblyReference.cache
+D:\c#\NumberToWords\obj\Debug\netcoreapp3.1\NumberToWords.AssemblyInfoInputs.cache
+D:\c#\NumberToWords\obj\Debug\netcoreapp3.1\NumberToWords.AssemblyInfo.cs

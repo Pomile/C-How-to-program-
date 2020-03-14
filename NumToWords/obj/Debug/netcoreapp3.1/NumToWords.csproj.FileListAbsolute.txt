@@ -1,0 +1,11 @@
+D:\c#\NumToWords\bin\Debug\netcoreapp3.1\NumToWords.exe
+D:\c#\NumToWords\bin\Debug\netcoreapp3.1\NumToWords.deps.json
+D:\c#\NumToWords\bin\Debug\netcoreapp3.1\NumToWords.runtimeconfig.json
+D:\c#\NumToWords\bin\Debug\netcoreapp3.1\NumToWords.runtimeconfig.dev.json
+D:\c#\NumToWords\bin\Debug\netcoreapp3.1\NumToWords.dll
+D:\c#\NumToWords\bin\Debug\netcoreapp3.1\NumToWords.pdb
+D:\c#\NumToWords\obj\Debug\netcoreapp3.1\NumToWords.csprojAssemblyReference.cache
+D:\c#\NumToWords\obj\Debug\netcoreapp3.1\NumToWords.AssemblyInfoInputs.cache
+D:\c#\NumToWords\obj\Debug\netcoreapp3.1\NumToWords.AssemblyInfo.cs
+D:\c#\NumToWords\obj\Debug\netcoreapp3.1\NumToWords.dll
+D:\c#\NumToWords\obj\Debug\netcoreapp3.1\NumToWords.pdb
