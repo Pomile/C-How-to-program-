@@ -1,0 +1,11 @@
+D:\c#\StringLoop\obj\Debug\netcoreapp3.1\StringLoop.csprojAssemblyReference.cache
+D:\c#\StringLoop\obj\Debug\netcoreapp3.1\StringLoop.AssemblyInfoInputs.cache
+D:\c#\StringLoop\obj\Debug\netcoreapp3.1\StringLoop.AssemblyInfo.cs
+D:\c#\StringLoop\bin\Debug\netcoreapp3.1\StringLoop.exe
+D:\c#\StringLoop\bin\Debug\netcoreapp3.1\StringLoop.deps.json
+D:\c#\StringLoop\bin\Debug\netcoreapp3.1\StringLoop.runtimeconfig.json
+D:\c#\StringLoop\bin\Debug\netcoreapp3.1\StringLoop.runtimeconfig.dev.json
+D:\c#\StringLoop\bin\Debug\netcoreapp3.1\StringLoop.dll
+D:\c#\StringLoop\bin\Debug\netcoreapp3.1\StringLoop.pdb
+D:\c#\StringLoop\obj\Debug\netcoreapp3.1\StringLoop.dll
+D:\c#\StringLoop\obj\Debug\netcoreapp3.1\StringLoop.pdb
